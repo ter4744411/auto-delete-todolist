@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base:'/auto-delete-todolist/',
+  base:'/auto-delete-todolist.github.io/',
   plugins: [
     tailwindcss(), react()],
 })
